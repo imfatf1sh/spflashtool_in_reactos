@@ -36,8 +36,8 @@ It's probably a better idea to setup an Ubuntu 14.04 VM. (Officially supported b
 
 * MSVCRT dlls shipped with SP Flash Tool needs to be deleted to avoid error.
 
-* Python 3.4.4 can be installed from rapps.
-
 * BTRFS can be used for boot partition, ignore EA (extended attributes) errors when you extract files using 7-zip.
 
 * Snapshot often, just in case you break installation.
+
+* If needed, use MTK-bypass or MTKClient on your host before connecting device to VM.
