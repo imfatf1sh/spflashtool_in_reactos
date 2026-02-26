@@ -1,1 +1,8 @@
+*.qcow2
 *.iso
+*.sock
+*.socket
+*.log
+*.pid
+*.ports
+*.spice
