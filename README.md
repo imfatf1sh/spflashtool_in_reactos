@@ -32,7 +32,7 @@ It's probably a better idea to setup an Ubuntu 14.04 VM. (Officially supported b
 
 * CJK fonts<sup>rapps</sup> may needs to be installed for Japanese texts to display correctly. ([Credits](https://katahiromz.fc2.page/reactos-mojibake/))
 
-* VC++ runtime 2008<sup>rapps</sup> need to be installed for SP Flash Tool to launch.
+* VC++ runtime 2008<sup>rapps</sup> needs to be installed for SP Flash Tool to launch.
 
 * MSVCRT dlls shipped with SP Flash Tool needs to be deleted to avoid error.
 
