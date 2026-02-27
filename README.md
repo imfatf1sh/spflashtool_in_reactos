@@ -8,6 +8,11 @@ Q: Why not use MTKClient? A: `mtkclient` doesn't support scatter file as time of
 
 It's probably a better idea to setup an Ubuntu 14.04 VM. (Officially supported by SP Flash Tool, I guess?)
 
+
+## Current state
+
+USB serial driver is missing in ReactOS.
+
 ---
 
 * NetKVM and USB redirection needs the following patches in `quickemu`:
